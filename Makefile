@@ -1,4 +1,4 @@
-service-name := credit-simulator-api-9
+service-name := credit-simulator-api-10
 image := $(service-name)-img
 container := $(service-name)-con
 port_in := 8080
